@@ -20,7 +20,7 @@ This is a simple web application that allows users to generate a resume by filli
 
 1. **Clone the repository:**
 
-   git clone https://github.com/yourusername/resume-generator.git
+   git clone https://github.com/Dhanashree-narkhede/Resumefolio.git
    cd resume-generator
 
 
