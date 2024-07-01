@@ -1,0 +1,21 @@
+
+ #cv-template{
+    display: none;
+} 
+.background{
+    background-color: #3A3845;
+    color: ;
+}
+#imgT{
+    border-radius: 500px;
+    width: 200px;
+    height: 200px;
+
+}
+
+.fonttt{
+    font-size: 15px;
+    line-height: 50px;
+    font-style: oblique;
+}
+

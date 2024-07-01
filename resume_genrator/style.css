@@ -1,0 +1,14 @@
+
+ #cv-template{
+    display: none;
+} 
+.background{
+    background-color:#005555;
+    color: white;
+}
+#imgT{
+    border-radius: 500px;
+    width: 250px;
+    height: 250px;
+
+}
